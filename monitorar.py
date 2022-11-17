@@ -7,7 +7,8 @@ import mysql.connector
 from mysql.connector import errorcode
 # pretty library
 
-import pyodbc 
+import pyodbc
+
 # Some other example server values are
 # server = 'localhost\sqlexpress' # for a named instance
 # server = 'myserver,port' # to specify an alternate port
